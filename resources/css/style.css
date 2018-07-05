@@ -30,3 +30,19 @@ font-weight:bold;
 .sec2 p {
   font-size:14px;
   }
+
+#imagerdy {
+  background-image: url("/Users/dawn/Desktop/broadway/resources/images/the-flatiron-building.png");
+}
+
+.footer p {
+  font-size:11px;
+  color:white;
+  }
+
+.footer {background-color: dimgray;
+text-align: left;
+}
+
+#adjust {font-size:18px;
+}
