@@ -1,10 +1,10 @@
 body {
   text-align: center;
+  font-family:helvetica
 }
 
 .header {
   background-image:url("/Users/dawn/Desktop/broadway/resources/images/the-flatiron-building.png");
-  font-family: helvetica;
   color:white;
 }
 
@@ -16,3 +16,17 @@ body {
 .header p {
   font-size:18px
 }
+
+.sec2 h2 {
+  font-size:32px;
+  font-weight:bold;
+}
+
+.sec2 h3 {
+font-size:23px;
+font-weight:bold;
+}
+
+.sec2 p {
+  font-size:14px;
+  }
